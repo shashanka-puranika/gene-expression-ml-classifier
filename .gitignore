@@ -1,0 +1,13 @@
+# Jupyter
+.ipynb_checkpoints/
+
+# Models & outputs
+models/
+*.pkl
+*.pt
+
+# Data (if you later download local copies)
+data/
+
+# HuggingFace cache (optional)
+.cache/
